@@ -19,7 +19,7 @@ I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ish
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/shameer-awais-b89239253/?originalSubdomain=pk)
-- [GitHub](https://github.com/your-username) – (Make sure to add your actual GitHub profile link here)
+- [GitHub](https://github.com/SinisterXI) 
 
 Feel free to check out my repositories and get in touch for collaboration or discussing any exciting projects!
 
