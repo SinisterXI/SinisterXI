@@ -26,9 +26,6 @@
 Feel free to check out my repositories and get in touch for collaboration or discussing any exciting projects!
 
 
-<h1 align="center">Hi 👋, I'm Shameer Awais</h1>
-<h3 align="center">I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/). I am passionate about Information Security, Ethical Hacking, and Artificial Intelligence. My focus is on mastering cybersecurity concepts and working on exciting projects that apply those principles in real-world scenarios.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinisterxi&label=Profile%20views&color=0e75b6&style=flat" alt="sinisterxi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinisterxi" alt="sinisterxi" /></a> </p>
