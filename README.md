@@ -40,3 +40,23 @@ Feel free to check out my repositories and get in touch for collaboration or dis
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinisterxi&show_icons=true&locale=en" alt="sinisterxi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinisterxi&" alt="sinisterxi" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SinisterXI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SinisterXI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SinisterXI&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SinisterXI&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterXI&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SinisterXI&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+
