@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Muhammad Shameer Awais
-
-I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/). I am passionate about Information Security, Ethical Hacking, and Artificial Intelligence. My focus is on mastering cybersecurity concepts and working on exciting projects that apply those principles in real-world scenarios.
+<h1 align="center">Hi 👋, I'm Shameer Awais</h1>
+<h3 align="center">I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/). I am passionate about Information Security, Ethical Hacking, and Artificial Intelligence. My focus is on mastering cybersecurity concepts and working on exciting projects that apply those principles in real-world scenarios.</h3>
 
 ## 🚀 Skills and Interests
 - **Cyber Security**: Penetration Testing, Network Security, Malware Analysis, Cyber Security Risk Management
@@ -26,8 +25,7 @@ I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ish
 
 Feel free to check out my repositories and get in touch for collaboration or discussing any exciting projects!
 
-## ⚡ Fun Fact
-When I'm not diving deep into cybersecurity, you'll find me working on my **Car**.
+
 <h1 align="center">Hi 👋, I'm Shameer Awais</h1>
 <h3 align="center">I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/). I am passionate about Information Security, Ethical Hacking, and Artificial Intelligence. My focus is on mastering cybersecurity concepts and working on exciting projects that apply those principles in real-world scenarios.</h3>
 
