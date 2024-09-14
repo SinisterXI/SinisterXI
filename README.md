@@ -33,8 +33,8 @@ Feel free to check out my repositories and get in touch for collaboration or dis
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shameer awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shameer awais" height="30" width="40" /></a>
-<a href="https://fb.com/shameer awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameer awais" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shameer awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shameer awais" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009662230622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameer awais" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shameerawais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shameer awais" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ZBQyRNtX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZBQyRNtX" height="30" width="40" /></a>
 </p>
 
