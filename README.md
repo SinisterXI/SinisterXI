@@ -3,18 +3,21 @@
 I am currently pursuing a Bachelor's degree in **Cyber Security** at [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/). I am passionate about Information Security, Ethical Hacking, and Artificial Intelligence. My focus is on mastering cybersecurity concepts and working on exciting projects that apply those principles in real-world scenarios.
 
 ## 🚀 Skills and Interests
-- **Cyber Security**: Penetration Testing, Network Security, Malware Analysis
+- **Cyber Security**: Penetration Testing, Network Security, Malware Analysis, Cyber Security Risk Management
 - **Programming Languages**: Python, C++, C
-- **Tools & Technologies**: Wireshark, Metasploit, Docker
+- **Tools & Technologies**: Wireshark, Metasploit, Docker, Packet Tracer
 - **Artificial Intelligence**: Machine Learning, Data Analysis
 - **Web Development**: HTML, CSS
 - **Version Control**: Git, GitHub
 - **Operating Systems**: Linux (Kali, Ubuntu), Windows
 
-## 🔐 Current Projects
+## 🔐 Projects
 - Simulated Banking System – Developing a secure banking system for learning purposes
 - Password-Protected Door Lock – Built a physical security system as part of a course project (CE222L)
-- Ongoing study in **CS 351L - Artificial Intelligence Lab**
+- Student Management System - This system was designed with a comprehensive database schema, including an Entity-Relationship Diagram (ERD), Semantic Object Model, and Architecture Diagram
+- Security Audit -  Conducted an in-depth cybersecurity audit by creating a thorough questionnaire, distributed to leading organizations across multiple sectors in Pakistan
+- Tetris Game in C++ - 🎮 Developed a classic Tetris game using C++ and the SFML library, integrating object-oriented programming (OOP) principles for scalable code architecture and efficient game mechanics
+
 
 
 ## 📫 Let's Connect
